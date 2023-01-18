@@ -1,8 +1,7 @@
 # Jedha_Kayak_Project
 Bloc n°2 : Analyse exploratoire, descriptive et inférentielle de données. 
 
-Luca Laborde
-luca.laborde@gmail.com
+Luca Laborde - luca.laborde@gmail.com
 
 Lien de la vidéo : 
 
