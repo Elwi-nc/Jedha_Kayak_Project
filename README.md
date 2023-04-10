@@ -1,5 +1,5 @@
 # Jedha_Kayak_Project
-Bloc n°2 : Analyse exploratoire, descriptive et inférentielle de données - Kayak Project. 
+Bloc n°1 - Construction et alimentation d'une infrastructure de gestion de donnée - Kayak Project. 
 
 Luca Laborde - luca.laborde@gmail.com
 
