@@ -3,7 +3,7 @@ Bloc n°1 - Construction et alimentation d'une infrastructure de gestion de donn
 
 Luca Laborde - luca.laborde@gmail.com
 
-Lien de la vidéo : 
+Lien de la vidéo : https://share.vidyard.com/watch/dZUgbVyBwXqo5deCcaMbJP? 
 
 # Kayak_Project - Plan your trip with Kayak
 
